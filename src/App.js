@@ -62,7 +62,9 @@ function App() {
           />
           <Button
             className="mx-2"
-            onClick={() => countDispatch({ type: "init", payload: inputVal })}
+            onClick={() =>
+              countDispatch({ type: "init", payload: Number(inputVal) })
+            }
           >
             setStartValue
           </Button>
