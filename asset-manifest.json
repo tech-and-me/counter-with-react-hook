@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/counter-with-react-hook/static/css/main.e7720ab7.css",
-    "main.js": "/counter-with-react-hook/static/js/main.6ca6778e.js",
+    "main.js": "/counter-with-react-hook/static/js/main.d85332ea.js",
     "index.html": "/counter-with-react-hook/index.html",
     "main.e7720ab7.css.map": "/counter-with-react-hook/static/css/main.e7720ab7.css.map",
-    "main.6ca6778e.js.map": "/counter-with-react-hook/static/js/main.6ca6778e.js.map"
+    "main.d85332ea.js.map": "/counter-with-react-hook/static/js/main.d85332ea.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.6ca6778e.js"
+    "static/js/main.d85332ea.js"
   ]
 }
