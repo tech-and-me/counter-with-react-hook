@@ -1,6 +1,6 @@
 import { React, useContext } from "react";
 import { Button } from "react-bootstrap";
-import { CountContext } from "../App";
+import { CountContext } from "./Hooks";
 
 const SectionB = () => {
   const { countDispatch } = useContext(CountContext);
